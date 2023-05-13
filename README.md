@@ -1,1 +1,2 @@
-# Titanic_Datascience
+# Titanic Datascience
+This is a competitive on Kaggle
